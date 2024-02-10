@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGNEHBb7iM0xg/profile-displaybackgroundimage-shrink_350_1400/0/1687103543614?e=1712793600&v=beta&t=iEXjPv-j3y35-MWGk36rN9F9w9Rw9V3bAsiRxGGZAFE)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGNEHBb7iM0xg/profile-displaybackgroundimage-shrink_350_1400/0/1687103543614?e=1712793600&v=beta&t=iEXjPv-j3y35-MWGk36rN9F9w9Rw9V3bAsiRxGGZAFE)
 <h1 align="center">Hi 👋, I'm Mustafa Emir Akkaya</h1>
 <h3 align="center">A electrical and electronics engineering student from Turkey</h3>
 
